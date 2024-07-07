@@ -1,0 +1,100 @@
+Name	Set	ImageFile	Colors	Cost	Text																		
+A1	Main	A1.png	<ferrous>Ferrous</ferrous>	2	flavor																		
+A10	Main	A10.png	<nox>Noxious</nox>	2	"Discard from Hand - Action: Look at your opponent's hand and take 1 card. Then, discard 1 card from hand. This discard may not be taken."																		
+A11	Main	A11.png	<nox>Noxious</nox>	2	"Discard from Hand - Action: Look at your opponent's hand and take 1 card. Then, discard 1 card from hand. This discard may not be taken."															9 <abnormal>Abnormal</abnormal>	1 bck or <ferrous>Ferrous</ferrous>		
+A12	Main	A12.png	<nox>Noxious</nox>	2	flavor														k	13 <Aquatic>Aquatic</Aquatic>	2 <Aquatic>Aquatic</Aquatic> or <nox>Noxious</nox>		2 <Aquatic>Aquatic</Aquatic>/<nox>Noxious</nox>
+A13	Main	A13.png	<abnormal>Abnormal</abnormal>	2	In play - reaction: Discard from play to take a 2nd card from opposing discarded cards.														k	13 <dense>Dense</dense>	2 <Aquatic>Aquatic</Aquatic>/<ferrous>Ferrous</ferrous>		2 <Aquatic>Aquatic</Aquatic>/<dense>Dense</dense>
+A14	Main	A14.png	<ferrous>Ferrous</ferrous>	2	In play - ongoing: players may not play their 3rd goal until 7 planets are on the board.															17 <ferrous>Ferrous</ferrous>	2 <dense>Dense</dense><nox>Noxious</nox>		
+A15	Main	A15.png	<abnormal>Abnormal</abnormal>	2	"When played: Your opponent chooses: You draw 1 card, or you discard your hand of X cards and draw X+1 cards."															13 <nox>Noxious</nox>	5 <ferrous>Ferrous</ferrous>		2 <ferrous>Ferrous</ferrous><nox>Noxious</nox>
+A16	Main	A16.png	<ferrous>Ferrous</ferrous>	2	3 <abnormal>Abnormal</abnormal>: 5 points.																		
+A17	Main	A17.png	<dense>Dense</dense>	2	One of each color: 3 points																		
+A18	Main	A18.png	<Aquatic>Aquatic</Aquatic> 	2	"2 <dense>Dense</dense>, 2 <Aquatic>Aquatic</Aquatic>: 4 points. "																		
+A19	Main	A19.png	<nox>Noxious</nox>	2	5 <ferrous>Ferrous</ferrous>: 7 points.																		
+A2	Main	A2.png	<ferrous>Ferrous</ferrous>	2	flavor																		
+A20	Main	A20.png	<abnormal>Abnormal</abnormal>	2	Two of each color: 10 points																		
+A21	Main	A21.png	<ferrous>Ferrous</ferrous>/<dense>Dense</dense>	5	"3 <nox>Noxious</nox>, 1 <ferrous>Ferrous</ferrous>, 1 <dense>Dense</dense>, 1 <Aquatic>Aquatic</Aquatic>: 7 points"														k				
+A22	Main	A22.png	<Aquatic>Aquatic</Aquatic>/<nox>Noxious</nox>	5	7 <ferrous>Ferrous</ferrous>: 11 points. Do not count any other scoring cards that require 4+ <ferrous>Ferrous</ferrous>.														k				
+A23	Main	A23.png	<ferrous>Ferrous</ferrous> or <Aquatic>Aquatic</Aquatic>	3	"3 <Aquatic>Aquatic</Aquatic>, 1 <abnormal>Abnormal</abnormal>: 5 points."																		
+A24	Main	A24.png	<dense>Dense</dense> or <nox>Noxious</nox>	3	"3 <dense>Dense</dense>, 4 <ferrous>Ferrous</ferrous>: 9 points."																		
+A25	Main	A25.png	<ferrous>Ferrous</ferrous>	2	"3 <Aquatic>Aquatic</Aquatic>, 3 <nox>Noxious</nox>, 2 <abnormal>Abnormal</abnormal>: 11 points"																		
+A26	Main	A26.png	<dense>Dense</dense>	2	"3 <abnormal>Abnormal</abnormal>, 5 <ferrous>Ferrous</ferrous>: 11 points"														k				
+A27	Main	A27.png	<Aquatic>Aquatic</Aquatic> 	2	"4 <Aquatic>Aquatic</Aquatic>, 2 <nox>Noxious</nox>, 2 <dense>Dense</dense>: 9 points"																		
+A28	Main	A28.png	<nox>Noxious</nox>	2	3 <nox>Noxious</nox> 1 <Aquatic>Aquatic</Aquatic> 1 <abnormal>Abnormal</abnormal>: 5 points																		
+A29	Main	A29.png	<abnormal>Abnormal</abnormal>	2	More <abnormal>Abnormal</abnormal> and more <Aquatic>Aquatic</Aquatic> than your opponent: 7 points																		
+A3	Main	A3.png	<ferrous>Ferrous</ferrous>	2	flavor																		
+A30	Main	A30.png	<ferrous>Ferrous</ferrous>/<nox>Noxious</nox>	5	More <ferrous>Ferrous</ferrous> than your opponent and 1 <abnormal>Abnormal</abnormal>: 4 points.																		
+A31	Main	A31.png	<Aquatic>Aquatic</Aquatic>/<dense>Dense</dense>	5	More <Aquatic>Aquatic</Aquatic> than your opponent and 1 <abnormal>Abnormal</abnormal>: 4 points.														k				
+A32	Main	A32.png	<ferrous>Ferrous</ferrous> or <nox>Noxious</nox>	3	More <dense>Dense</dense> and <nox>Noxious</nox> than your opponent: 7 points.														k				
+A33	Main	A33.png	<dense>Dense</dense> or <Aquatic>Aquatic</Aquatic>	3	"More <abnormal>Abnormal</abnormal> than your opponent, and 3 <ferrous>Ferrous</ferrous>s: 5 points"																		
+A34	Main	A34.png	<ferrous>Ferrous</ferrous>	3	Scoring: Gain 2 points if you have more planets than your opponent.																		
+A35	Main	A35.png	<dense>Dense</dense>	3	Scoring: Gain 2 points if you have the most planets with cost 4 or more.														k				
+A36	Main	A36.png	<Aquatic>Aquatic</Aquatic> 	3	flavor														k				
+A37	Main	A37.png	<nox>Noxious</nox>	3	Scoring: 3 points if you only have 2 goals.																		
+A38	Main	A38.png	<abnormal>Abnormal</abnormal>	3	Scoring: Score 1 point.																		
+A39	Main	A39.png	<ferrous>Ferrous</ferrous>/<dense>Dense</dense>	5	In Play - Action: Discard 2 cards to take a goal card from your opponent and place it in your own play area. 																		
+A4	Main	A4.png	<dense>Dense</dense>	3	In Play - Action: Reveal 1 card from the top of the deck for each <ferrous>Ferrous</ferrous> planet you have. Play any revealed <dense>Dense</dense> planet for free.																		
+A40	Main	A40.png	<Aquatic>Aquatic</Aquatic>/<nox>Noxious</nox>	5	"In Play - Action: Play 2 planet cards, paying all costs."														k				
+A41	Main	A41.png	<ferrous>Ferrous</ferrous> or <Aquatic>Aquatic</Aquatic>	3	In Play - Action: Play 1 planet card from your hand. Your opponent may play a card of equal or less cost. Draw 1 card if your card is <ferrous>Ferrous</ferrous>.														k				
+A42	Main	A42.png	<dense>Dense</dense> or <nox>Noxious</nox>	3	"In Play - Action: Draw 3 cards, then discard 1 card."																		
+A43	Main	A43.png	<ferrous>Ferrous</ferrous>	4	Scoring: 1 point for every planet card above 6 you have.																		
+A44	Main	A44.png	<dense>Dense</dense>	2	"In Play - Reaction: Discard from play to cancel a ""Discard From Hand - Action"" ability."																		
+A45	Main	A45.png	<Aquatic>Aquatic</Aquatic> 	2	flavor														k				
+A46	Main	A46.png	<nox>Noxious</nox>	2	flavor																		
+A47	Main	A47.png	<abnormal>Abnormal</abnormal>	3	When played: Your opponent discards their hand and draws cards equal to what they previously had in hand.																		
+A48	Main	A48.png	<ferrous>Ferrous</ferrous>/<nox>Noxious</nox>	5	flavor																		
+A49	Main	A49.png	<Aquatic>Aquatic</Aquatic>/<dense>Dense</dense>	5	flavor																		
+A5	Main	A5.png	<dense>Dense</dense>	2	flavor														k				
+A50	Main	A50.png	<ferrous>Ferrous</ferrous> or <nox>Noxious</nox>	3	flavor																		
+A51	Main	A51.png	<dense>Dense</dense> or <Aquatic>Aquatic</Aquatic>	3	In Play - Ongoing: One additional planet card is needed to allow a 3rd goal to be placed.																		
+A52	Main	A52.png	<ferrous>Ferrous</ferrous>	2	In Play - Ongoing: One additional planet card is needed to allow a 3rd goal to be placed.														k				
+A53	Main	A53.png	<dense>Dense</dense>	2	"In Play - Reaction: Discard from play to cancel a ""Discard From Hand - Action"" ability."														k				
+A54	Main	A54.png	<Aquatic>Aquatic</Aquatic> 	2	In Play - Ongoing: One additional planet card is needed to allow a 3rd goal to be placed.																		
+A55	Main	A55.png	<nox>Noxious</nox>	1	In Play - Ongoing: Discard 1 card each time your opponent plays a <abnormal>Abnormal</abnormal> card.																		
+A56	Main	A56.png	<abnormal>Abnormal</abnormal>	0	Scoring: -1 point.														k				
+A57	Main	A57.png	<dense>Dense</dense>/<nox>Noxious</nox>	6	Scoring: 1 point for each incomplete goal.																		
+A58	Main	A58.png	<Aquatic>Aquatic</Aquatic>/<ferrous>Ferrous</ferrous>	6	Scoring: 1 point for each 5+ cost planet other than this one.																		
+A59	Main	A59.png	<Aquatic>Aquatic</Aquatic> or <nox>Noxious</nox>	5	Scoring: 2 points																		
+A6	Main	A6.png	<dense>Dense</dense>	3	Scoring: 1 point.																		
+A60	Main	A60.png	<dense>Dense</dense> or <ferrous>Ferrous</ferrous>	5	Scoring: 2 points														k				
+A61	Main	A61.png	<ferrous>Ferrous</ferrous>	2	"1 <dense>Dense</dense>, 1 <nox>Noxious</nox>, 1 <Aquatic>Aquatic</Aquatic>: 3 points"														k				
+A62	Main	A62.png	<dense>Dense</dense>	2	2 <abnormal>Abnormal</abnormal>: 3 points																		
+A63	Main	A63.png	<Aquatic>Aquatic</Aquatic> 	2	"2 <ferrous>Ferrous</ferrous>, 2 <dense>Dense</dense>: 3 points"																		
+A64	Main	A64.png	<nox>Noxious</nox>	2	3 <Aquatic>Aquatic</Aquatic>: 4 points																		
+A65	Main	A65.png	<ferrous>Ferrous</ferrous>	2	"3 <abnormal>Abnormal</abnormal>, 3 <nox>Noxious</nox>: 9 points"																		
+A66	Main	A66.png	<dense>Dense</dense>/<nox>Noxious</nox>	5	"2 <dense>Dense</dense>, 2 <nox>Noxious</nox>, at least one hybrid planet: 5 points"														k				
+A67	Main	A67.png	<Aquatic>Aquatic</Aquatic>/<ferrous>Ferrous</ferrous>	5	at least 3 of 3 colors: 10 points														k				
+A68	Main	A68.png	<Aquatic>Aquatic</Aquatic> or <nox>Noxious</nox>	3	"2 <Aquatic>Aquatic</Aquatic>, 1 <ferrous>Ferrous</ferrous>, 1 <abnormal>Abnormal</abnormal>: 4 points"																		
+A69	Main	A69.png	<dense>Dense</dense> or <ferrous>Ferrous</ferrous>	3	3 of at least 4 colors: 15 points																		
+A7	Main	A7.png	<Aquatic>Aquatic</Aquatic> 	2	flavor																		
+A70	Main	A70.png	<ferrous>Ferrous</ferrous>	3	In Play - Ongoing: Draw 1 card after placing a <ferrous>Ferrous</ferrous> planet.																		
+A71	Main	A71.png	<dense>Dense</dense>	3	In Play - Ongoing: Draw 1 card after placing a <dense>Dense</dense> planet.																		
+A72	Main	A72.png	<Aquatic>Aquatic</Aquatic> 	3	In Play - Ongoing: Draw 1 card after placing a <Aquatic>Aquatic</Aquatic> planet.																		
+A73	Main	A73.png	<nox>Noxious</nox>	2	Discard from hand - Action: Reveal the top two cards of the deck: your opponent chooses one card for you to play and one card to add to their hand.														k				
+A74	Main	A74.png	<ferrous>Ferrous</ferrous>	2	In Play - Ongoing: Draw 1 card after playing each 3-cost planet																		
+A75	Main	A75.png	<ferrous>Ferrous</ferrous>	0	In Play - Ongoing: Discard 1 card from hand every time your opponent plays a <ferrous>Ferrous</ferrous> planet.																		
+A76	Main	A76.png	<dense>Dense</dense>	2	"Discard from Hand - Action: If your opponent has at least 1 card in hand, play a planet from your hand for free. Then your opponent does the same."																		
+A77	Main	A77.png	<Aquatic>Aquatic</Aquatic> 	2	Discard from Hand - Action: The player with the least planets draws 4 cards.														k				
+A78	Main	A78.png	<nox>Noxious</nox>	2	"Discard from Hand - Action: Swap any 2 planets with the same cost. If you take a <abnormal>Abnormal</abnormal> planet, your opponent draws a card."																		
+A79	Main	A79.png	<ferrous>Ferrous</ferrous>	2	In Play - Action: Take 1 card from opponent's hand at random.																		
+A8	Main	A8.png	<Aquatic>Aquatic</Aquatic> 	2	flavor														k				
+A80	Main	A80.png	<ferrous>Ferrous</ferrous>	2	In Play - Action: You must discard 1 additional card every time you play a 2-cost planet. You may draw 1 card after playing a planet with more than 2 cost.																		
+A81	Main	A81.png	<dense>Dense</dense>	2	Discard from Hand - Action: Take a planet from the discard.																		
+A82	Main	A82.png	<Aquatic>Aquatic</Aquatic> 	2	Discard from Hand - Action: Take a planet from the discard.														k				
+A83	Main	A83.png	<nox>Noxious</nox>	2	Discard from Hand - Action: Discard 1 opposing single planet and 1 card from your hand																		
+A84	Main	A84.png	<abnormal>Abnormal</abnormal>	2	Discard from Hand - Action: Discard 1 opposing single planet and 1 card from your hand																		
+A85	Main	A85.png	<ferrous>Ferrous</ferrous>	2	Discard from Hand - Action: Discard 1 opposing single planet and 1 card from your hand																		
+A86	Main	A86.png	<dense>Dense</dense>	2	Discard from Hand - Action: Take back a goal card from your area. Draw 1 card.																		
+A87	Main	A87.png	<Aquatic>Aquatic</Aquatic> 	3	Scoring: Gain 2 points if you have 2 <Aquatic>Aquatic</Aquatic> and 2 <ferrous>Ferrous</ferrous>.														k				
+A88	Main	A88.png	<nox>Noxious</nox>	2	Discard from Hand - Action: Play 2 goal cards. Do not discard to play these goals.														k				
+A89	Main	A89.png	<abnormal>Abnormal</abnormal>	2	Discard from Hand - Action: Draw and reveal cards until you get a <Aquatic>Aquatic</Aquatic> or <ferrous>Ferrous</ferrous> card.																		
+A9	Main	A9.png	<Aquatic>Aquatic</Aquatic> 	2	"When Played: Use only if you have 2 goals in play. Your opponent may discard one of your goals. You may play a planet card for free from hand, and immediately take the action printed on it."																		
+A90	Main	A90.png	<abnormal>Abnormal</abnormal> or <ferrous>Ferrous</ferrous>	3	Discard from Hand - Action: Draw and reveal cards until you get a <nox>Noxious</nox> or <dense>Dense</dense> card.																		
+A91	Main	A91.png	<ferrous>Ferrous</ferrous>/<ferrous>Ferrous</ferrous>	7	Scoring: 1 point for each card that doesn't have a <ferrous>Ferrous</ferrous> or <abnormal>Abnormal</abnormal> on it.														k				
+A92	Main	A92.png	<ferrous>Ferrous</ferrous> or <nox>Noxious</nox>	4	Scoring: 1 point for each <ferrous>Ferrous</ferrous> you have. Lose 1 point for each <ferrous>Ferrous</ferrous> your opponent has.																		
+A93	Main	A93.png	<ferrous>Ferrous</ferrous> or <dense>Dense</dense>	3	In Play - Reaction: Draw 1 card every time your opponent plays a 4+ cost planet.																		
+A94	Main	A94.png	<ferrous>Ferrous</ferrous> or <Aquatic>Aquatic</Aquatic>	3	Discard from Hand - Action: Discard and reveal cards until you get a scoring card. Draw it. Draw 1 card.																		
+A95	Main	A95.png	None	2	Scoring: 2 points																		
+F1	Nation	F1.png	Odd Nation		Scoring: Gain 1 point per <abnormal>Abnormal</abnormal> card. Action: Reveal X cards from opponent's hand. X is number of <abnormal>Abnormal</abnormal> cards you have. Take 1 revealed card.																		
+F2	Nation	F2.png	Droid Nation		"Scoring: Gain 1 point for every two planets, rounded down. You may not visit 2-cost <Aquatic>Aquatic</Aquatic> planets. You may visit 2 <nox>Noxious</nox> planets in one action. <ferrous>Ferrous</ferrous>uce the cost of visiting <nox>Noxious</nox> planets by 1 if you do this."																		
+F3	Nation	F3.png	Science Nation		"Scoring: Gain 2 points if you have every color. Lose 2 points if not. Action: Reveal off deck X cards, X is number of colors you have. Choose one to keep."																		
+F4	Nation	F4.png	Empire Nation		Scoring: Gain 1 point for every 5+ cost planet you have. <ferrous>Ferrous</ferrous>uce cost of 5+ cost planets by 1. 																		
