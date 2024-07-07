@@ -1,10 +1,7 @@
-52playingcards	10-03-11
-plugins/52playingcards/plugininfo.txt	http://lackeyccg.com/52playingcards/plugininfo.txt	99761
-plugins/52playingcards/saved/start.txt	http://lackeyccg.com/52playingcards/saved/start.txt	112134
-plugins/52playingcards/decks/Deck.dek	http://lackeyccg.com/52playingcards/decks/Deck.dek	341899
-plugins/52playingcards/decks/DeckWith2Jokers.dek	http://lackeyccg.com/52playingcards/decks/DeckWith2Jokers.dek	352127
-plugins/52playingcards/sets/deck.txt	http://lackeyccg.com/52playingcards/sets/deck.txt	194716
-plugins/52playingcards/sets/setimages/general/cardback.jpg	http://lackeyccg.com/52playingcards/medium/cardback.jpg	-14879
-plugins/52playingcards/sets/setimages/general/spawned.jpg	http://lackeyccg.com/52playingcards/medium/spawned.jpg	271
+Circinus	07-04-24
+plugins/circinus/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	119905
+plugins/circinus/cardback.jpeg	https://github.com/rhgbta/hexball/blob/main/cardback.jpeg?raw=true	6209
+plugins/circinus/sets/carddata.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/carddata.txt	1147821
+plugins/circinus/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	215806
 CardGeneralURLs:
-http://lackeyccg.com/52playingcards/medium/
+https://raw.githubusercontent.com/rhgbta/circinus/main/sets/setimages/Main/

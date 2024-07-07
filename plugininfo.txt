@@ -17,6 +17,12 @@
 </gamezone>
 
 <gamezone>
+     <label>Scoring Area</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
      <label>Deck</label>
      <isshared>yes</isshared>
 </gamezone>
