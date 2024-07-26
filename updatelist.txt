@@ -1,8 +1,8 @@
 Circinus	07-04-24
-plugins/circinus/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	119905
-plugins/circinus/cardback.jpeg	https://github.com/rhgbta/hexball/blob/main/cardback.jpeg?raw=true	6209
-plugins/circinus/sets/carddata.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/carddata.txt	1147821
-plugins/circinus/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/hexball/main/plugininfo.txt	215814
-plugins/Circinus/updatelist.txt	https://raw.githubusercontent.com/rhgbta/circinus/main/updatelist.txt	61763
+plugins/circinus/plugininfo.txt	https://raw.githubusercontent.com/rhgbta/circinus/main/plugininfo.txt	119905
+plugins/circinus/cardback.jpeg	https://github.com/rhgbta/circinus/blob/main/cardback.jpeg?raw=true	6209
+plugins/circinus/sets/carddata.txt	https://raw.githubusercontent.com/rhgbta/circinus/main/carddata.txt	1147821
+plugins/circinus/pluginpreferences.txt	https://raw.githubusercontent.com/rhgbta/circinus/main/plugininfo.txt	215814
+plugins/Circinus/updatelist.txt	https://raw.githubusercontent.com/rhgbta/circinus/main/updatelist.txt	62208
 CardGeneralURLs:
 https://raw.githubusercontent.com/rhgbta/circinus/main/sets/setimages/Main/
